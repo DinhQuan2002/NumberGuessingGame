@@ -1,0 +1,14 @@
+D:\C#\NumberGruessingGame\NumberGruessingGame\bin\Debug\netcoreapp3.1\NumberGruessingGame.exe
+D:\C#\NumberGruessingGame\NumberGruessingGame\bin\Debug\netcoreapp3.1\NumberGruessingGame.deps.json
+D:\C#\NumberGruessingGame\NumberGruessingGame\bin\Debug\netcoreapp3.1\NumberGruessingGame.runtimeconfig.json
+D:\C#\NumberGruessingGame\NumberGruessingGame\bin\Debug\netcoreapp3.1\NumberGruessingGame.runtimeconfig.dev.json
+D:\C#\NumberGruessingGame\NumberGruessingGame\bin\Debug\netcoreapp3.1\NumberGruessingGame.dll
+D:\C#\NumberGruessingGame\NumberGruessingGame\bin\Debug\netcoreapp3.1\NumberGruessingGame.pdb
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.csproj.AssemblyReference.cache
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.AssemblyInfoInputs.cache
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.AssemblyInfo.cs
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.csproj.CoreCompileInputs.cache
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.dll
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.pdb
+D:\C#\NumberGruessingGame\NumberGruessingGame\obj\Debug\netcoreapp3.1\NumberGruessingGame.genruntimeconfig.cache
